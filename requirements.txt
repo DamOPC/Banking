@@ -1,0 +1,11 @@
+django
+streamlit
+gunicorn
+django-heroku
+flask
+pandas
+numpy
+imblearn
+sklearn
+lightgbm
+shap
