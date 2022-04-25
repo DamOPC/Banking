@@ -1,11 +1,11 @@
 django
-streamlit
 gunicorn
 django-heroku
 flask
+joblib
 pandas
 numpy
 imblearn
 sklearn
-lightgbm
 shap
+lightgbm
