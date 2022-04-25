@@ -1,7 +1,8 @@
+streamlit
 pandas
-shap
 numpy
+requests
 plotly
 matplotlib
 seaborn
-lightgbm
+shap
